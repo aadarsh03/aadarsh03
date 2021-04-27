@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1 align="center">I'm aadarsh03</h1>
+<h1 align="center">I'm Aadarshkumar Jadhav</h1>
 <h3 align="center">Student | Dreamer | Learner |</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadarsh03&label=Profile%20views&color=0e75b6&style=flat" alt="aadarsh03" /> </p>
